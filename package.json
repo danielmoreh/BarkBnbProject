@@ -1,0 +1,27 @@
+{
+  "name": "barkbnb",
+  "version": "1.0.0",
+  "description": "BarkBnB , a dog friendly airbnb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start:prod": "NODE_ENV=production nodemon server.js",
+    "debug": "ndb server.js"
+  },
+  "author": "Daniel Moreh ",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "mongoose": "^7.4.1",
+    "morgan": "^1.10.0",
+    "slugify": "^1.6.6",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "npm": "^9.8.1",
+    "prettier": "^1.17.0"
+  }
+}

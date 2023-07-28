@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Buddy",
+      "fromDate": "2023-07-28T10:00:00",
+      "dogBreed": "Golden Retriever",
+      "address": "123 Main Street, City A",
+      "duration": "4 hours",
+      "revenue": 30,
+      "notes": "Buddy loves playing fetch in the park."
+    },
+    {
+      "name": "Luna",
+      "fromDate": "2023-07-30T15:00:00",
+      "dogBreed": "Labrador Retriever",
+      "address": "456 Oak Avenue, City B",
+      "duration": "6 hours",
+      "revenue": 50,
+      "notes": "Luna needs to take her medication with meals."
+    },
+    {
+      "name": "Rocky",
+      "fromDate": "2023-08-02T12:00:00",
+      "dogBreed": "Bulldog",
+      "address": "789 Elm Road, City C",
+      "duration": "8 hours",
+      "revenue": 70,
+      "notes": "Rocky prefers calm environments and enjoys belly rubs."
+    },
+    {
+      "name": "Daisy",
+      "fromDate": "2023-08-05T09:00:00",
+      "dogBreed": "Poodle",
+      "address": "321 Pine Lane, City D",
+      "duration": "5 hours",
+      "revenue": 40,
+      "notes": "Daisy is well-trained and loves meeting new people."
+    },
+    {
+      "name": "Max",
+      "fromDate": "2023-08-07T14:00:00",
+      "dogBreed": "German Shepherd",
+      "address": "654 Cedar Street, City E",
+      "duration": "3 hours",
+      "revenue": 25,
+      "notes": "Max enjoys long walks and playing with his favorite toy."
+    },
+    {
+      "name": "Coco",
+      "fromDate": "2023-08-10T17:00:00",
+      "dogBreed": "Shih Tzu",
+      "address": "987 Birch Avenue, City F",
+      "duration": "7 hours",
+      "revenue": 60,
+      "notes": "Coco needs a little extra attention due to separation anxiety."
+    },
+    {
+      "name": "Milo",
+      "fromDate": "2023-08-13T11:00:00",
+      "dogBreed": "Beagle",
+      "address": "543 Maple Road, City G",
+      "duration": "4 hours",
+      "revenue": 35,
+      "notes": "Milo enjoys exploring new places on walks."
+    },
+    {
+      "name": "Bailey",
+      "fromDate": "2023-08-16T13:00:00",
+      "dogBreed": "Dachshund",
+      "address": "876 Oak Avenue, City H",
+      "duration": "5 hours",
+      "revenue": 40,
+      "notes": "Bailey loves cuddling and playing with squeaky toys."
+    },
+    {
+      "name": "Rosie",
+      "fromDate": "2023-08-19T16:00:00",
+      "dogBreed": "Yorkshire Terrier",
+      "address": "210 Cedar Lane, City I",
+      "duration": "6 hours",
+      "revenue": 55,
+      "notes": "Rosie is shy at first but warms up quickly with treats."
+    },
+    {
+      "name": "Oscar",
+      "fromDate": "2023-08-22T10:00:00",
+      "dogBreed": "Chihuahua",
+      "address": "123 Elm Street, City J",
+      "duration": "3 hours",
+      "revenue": 25,
+      "notes": "Oscar loves to be carried and pampered."
+    }
+  ]
+  
