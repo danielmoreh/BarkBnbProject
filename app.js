@@ -2,6 +2,7 @@ const express = require('express');
 const morgan = require('morgan');
 
 const dogRouter = require('./routes/dogRoutes');
+const userRouter = require('./routes/userRoutes');
 const app = express();
 
 // middlewares
@@ -25,6 +26,7 @@ if (process.env.NODE_ENV === 'development') {
 
 // routes
 app.use('/api/v1/dogs',dogRouter);
+app.use('/api/v1/users', userRouter);
 
 app.all('*', (req, res, next) => {
     res.status(404).json({
